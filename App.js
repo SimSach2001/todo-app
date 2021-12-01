@@ -114,6 +114,6 @@ const styles = StyleSheet.create({
   alpha: {
     width:300,
     height:300,
-    backgroundColor: "red",
+    backgroundColor: "blue",
   }
 });
